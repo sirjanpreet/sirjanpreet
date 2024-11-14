@@ -2,9 +2,9 @@
 
 - 🔭 I’m currently working on ... CourtConnect. CourtConnect is a platform for organizing and joining sports events with others in your community. Users can create events, view upcoming sports meetups, and connect with others for a fun, active experience.
 - 🌱 The project I am most proud of is ... StockSimulator. StockSimulator is a web application that simulates real stock trading, allowing users to buy and sell stocks with real-time market data. It provides a hands-on way to learn about stock trading and track portfolio performance without any financial risk.
-- 🤔 One of my first project experience came from building ... The Flashcard App. Flashcard App is an interactive tool for creating and studying flashcards. Users can create custom flashcards, organize them into sets, and quiz themselves to improve retention of knowledge.
+- 🤔 One of my first project experiences came from building ... The Flashcard App. Flashcard App is an interactive tool for creating and studying flashcards. Users can create custom flashcards, organize them into sets, and quiz themselves to improve retention of knowledge.
 
-- You can checkout my Cisco Networking Academy Lab projets in the Cisco Labs repository. These are labs in which I first setup the networking feature that is discussed in the lab and then documented the steps and troubleshooting techniques that went into using the specific tech stack that I used. 
+- You can check out my Cisco Networking Academy Lab projects in the Cisco Labs repository. These are labs in which I first setup the networking feature that is discussed in the lab and then documented the steps and troubleshooting techniques that went into using the specific tech stack that I used. 
 <!--
 **sirjanpreet/sirjanpreet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

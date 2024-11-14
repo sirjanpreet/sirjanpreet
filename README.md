@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi there 👋. My name is Sirjan Singh. Welcome to my GitHub!
 
+- 🔭 I’m currently working on ... CourtConnect. CourtConnect is a platform for organizing and joining sports events with others in your community. Users can create events, view upcoming sports meetups, and connect with others for a fun, active experience.
+- 🌱 The project I am most proud of is ... StockSimulator. StockSimulator is a web application that simulates real stock trading, allowing users to buy and sell stocks with real-time market data. It provides a hands-on way to learn about stock trading and track portfolio performance without any financial risk.
+- 🤔 One of my project experience came from building ... The Flashcard App. Flashcard App is an interactive tool for creating and studying flashcards. Users can create custom flashcards, organize them into sets, and quiz themselves to improve retention of knowledge.
 <!--
 **sirjanpreet/sirjanpreet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

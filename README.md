@@ -1,6 +1,6 @@
 ### Hi, I'm Sirjan. 👋
 
-I'm a CS student at the University of Washington focusing on Systems, C++, and ML Infrastructure. I like bypassing the OS and figuring out how things work under the hood.
+I'm a CS student at the University of Washington focusing on Systems, C++, and ML Infrastructure.
 
 * 🛠 **Currently building:** A C++ user-space thread scheduler (managing my own stack pointers and context switches).
 * 💼 **Next up:** Machine Learning Engineer Intern at Expedia (Summer 2026).
